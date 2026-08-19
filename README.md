@@ -1,5 +1,6 @@
-# DoD CMMC 2.0 Level 1 SSP Templates
-This repository includes a variant of the NIST 800-171 System Security Plan Template, customized for DoD CMMC 2.0 Level 1. Per 32 CFR 170.15(c)(1)(i), compliance with CMMC 2.0 Level 1 is assessed based on the 59 specific assessment objectives in NIST SP 800-171A Jun2018. The original NIST template has been scoped to only the requirements for Level 1, adjusted for FCI, and includes the assessment objectives.
+# DoD CMMC Level 1 SSP Template
+
+This repository includes a variant of the NIST SP 800-171 System Security Plan template for those who may want to maintain an SSP for  Level 1 applications.
 
 ***
 
