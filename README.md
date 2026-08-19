@@ -1,4 +1,4 @@
-# CMMC Level 1 SSP Template
+# DoD CMMC Level 1 SSP Template
 
 This repository includes a variant of the NIST SP 800-171 System Security Plan template for those who may want to maintain an SSP for  DoD CMMC Level 1 applications.
 
