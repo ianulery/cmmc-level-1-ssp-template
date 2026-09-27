@@ -1,6 +1,6 @@
-# DoD CMMC Level 1 SSP Template
+# FAR 52.204-21, CMMC Level 1 SSP Template
 
-This repository includes a variant of the NIST SP 800-171 System Security Plan template for those who may want to maintain an SSP for  DoD CMMC Level 1 applications.
+This repository includes a System Security Plan template for implementing FAR 52.204-21, DoD CMMC Level 1 compliance. It is a variant of the NIST SP 800-171 R2 SSP template provided by NIST, including the security controls applicable at CMMC level 1.
 
 ***
 
